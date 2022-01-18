@@ -8,3 +8,18 @@ body{
 .nav-link{
     font-size: 14px;
 }
+.btn-tomato{
+    background-color: tomato;
+}
+.hcard-icon{
+    color: tomato;
+}
+.hcard-detail h6{
+    font-size: 13px;
+    font-weight: 600;
+}
+.hcard-detail p{
+    font-size: 13px;
+    color: #8a8a8a;
+    text-align: justify;
+}
