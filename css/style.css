@@ -40,7 +40,7 @@ body{
 }
 .hcard-detail h6{
     font-size: 13px;
-    font-weight: 600;
+    font-weight: 700;
 }
 .hcard-detail p{
     font-size: 13px;
@@ -69,6 +69,12 @@ body{
 }
 /* ---------- card css end ---------- */
 
+/* .footer-btn{
+    width: fit-content;
+} */
+
+
+
 
 /* ---------- mobile device css start ---------- */
 
@@ -78,6 +84,6 @@ body{
     }
     .banner-text{
         order: 2;
-        margin-top: 2rem;
+        margin-top: 3rem;
     }
 }
