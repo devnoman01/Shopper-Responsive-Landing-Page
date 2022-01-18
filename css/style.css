@@ -32,6 +32,8 @@ body{
 }
 /* ---------- nav css end ---------- */
 
+
+
 /* ---------- vertical card css start ---------- */
 .hcard-icon{
     color: tomato;
@@ -66,3 +68,16 @@ body{
     transition: transform .3s linear;
 }
 /* ---------- card css end ---------- */
+
+
+/* ---------- mobile device css start ---------- */
+
+@media only screen and (max-width: 767px) {
+    .banner-img{
+        order: 1;
+    }
+    .banner-text{
+        order: 2;
+        margin-top: 2rem;
+    }
+}
